@@ -3,7 +3,7 @@
 Your real contact details are already wired into every page:
 - Phone: **+91 83799 22302**
 - Email: **hinglajtech2026@gmail.com**
-- Office: **Shree Ram, Tupe Galli, Ramanandnagar, Maharashtra 416308, India**
+- Office: **Shree Ram Adarsh Colony (Tupe Galli) Ramanandnagar, Maharashtra 416308, India**
 
 Two things you must do before this is fully live and useful — both free,
 both take under 10 minutes total.
