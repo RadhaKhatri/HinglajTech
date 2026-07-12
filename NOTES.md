@@ -73,7 +73,7 @@ file already in this project for security.
 business. Buy it from any registrar (Namecheap, GoDaddy, Cloudflare
 Registrar), then point it at Netlify/Cloudflare Pages by following their
 "Custom domain" instructions — both have simple guided steps for this.
-Once you have a real domain, update every `https://www.hinglajtech.com`
+Once you have a real domain, update every `https://hinglaj-tech.vercel.app`
 reference in the `<head>` of each page (canonical/OG tags), plus
 `robots.txt` and `sitemap.xml`, to match it.
 

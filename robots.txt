@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.hinglajtech.com/sitemap.xml
+Sitemap: https://hinglaj-tech.vercel.app/sitemap.xml
